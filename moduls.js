@@ -13,7 +13,6 @@ function SumOfArray(array){
         sum = sum+ array[i];
     }
     console.log(sum) 
-
 }
 
 

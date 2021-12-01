@@ -2,8 +2,8 @@
 // import {name,PrintHello} from "./moduls.js"
 // import numebr from "./moduls.js"
 // import User from "./moduls.js"
-import {name,numebr,User,t} from "./moduls.js";
-import SumOfArray from "./moduls.js"
+import SumOfArray, {name,numebr,User,t} from "./moduls.js";
+// import SumOfArray from "./moduls.js"
 
 // console.log(numebr)
 // console.log(name)
