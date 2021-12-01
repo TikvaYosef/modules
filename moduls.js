@@ -2,11 +2,11 @@ const name  = "Tikva";
 
 
 
-console.log(name)
+// console.log(name)
 
-function PrintName(){
+function PrintHello(){
     console.log("Hello")
 }
-PrintName()
 
-export default name;
+export {name,PrintHello}
+// export default name;
